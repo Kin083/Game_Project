@@ -2,6 +2,7 @@
 Tên: WhiteKnight
 Nội dung: Chiến binh với bộ giáp bạch kim dũng cảm chiến đấu, diệt trừ quái vật nguy hiểm, bảo vệ đất nước và người dân.
 Cách chơi:
+
   Bạn có 3 nút di chuyển, A sang trái, D sang phải, W để nhảy. Bạn có thể bấm J để tấn công, U để phòng thủ.
   Bạn phải tiêu diệt quái vật và an toàn đi tới cuối con đường. Là 1 chiến binh, hãy biết giữ khoảng cách với quái vật và tấn công, phòng thủ đúng lúc.
   Ở cuối map, có 1 con boss với lượng máu gấp đôi quái thường. Boss sẽ có tầm đánh xa hơn, và có skill dịch chuyển nên hãy cẩn thận!
