@@ -2208,3 +2208,251 @@
 	"SoundMgr.h"
 	<SDL_ttf.h>
 
+1680406763 source:d:\lap_trinh\github\game_project\whiteknight\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Engine.h"
+	"TextureManage.h"
+	"Timer.h"
+
+1682915822 d:\lap_trinh\github\game_project\whiteknight\src\core\engine.h
+	"Play.h"
+	"Menu.h"
+	"MenuPause.h"
+	"GameOver.h"
+
+1683466645 d:\lap_trinh\github\game_project\whiteknight\src\states\play.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"GameMap.h"
+	"GameObject.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Engine.h"
+	"Button.h"
+
+1683128358 d:\lap_trinh\github\game_project\whiteknight\src\map\gamemap.h
+	<vector>
+	"Layer.h"
+
+1680847859 d:\lap_trinh\github\game_project\whiteknight\src\map\layer.h
+
+1681652722 d:\lap_trinh\github\game_project\whiteknight\src\object\gameobject.h
+	"Transform.h"
+	<SDL.h>
+	"Point.h"
+	"Collider.h"
+
+1680421057 d:\lap_trinh\github\game_project\whiteknight\src\physics\transform.h
+	"Vector2D.h"
+
+1681800731 d:\lap_trinh\github\game_project\whiteknight\src\physics\vector2d.h
+	<iostream>
+
+1680421057 d:\lap_trinh\github\game_project\whiteknight\src\physics\point.h
+	<iostream>
+
+1679111939 d:\lap_trinh\github\game_project\whiteknight\src\physics\collider.h
+	<SDL.h>
+
+1683553248 d:\lap_trinh\github\game_project\whiteknight\src\characters\warrior.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+
+1683135813 d:\lap_trinh\github\game_project\whiteknight\src\characters\character.h
+	"GameObject.h"
+	<string>
+
+1682925852 d:\lap_trinh\github\game_project\whiteknight\src\animation\animation.h
+	<string>
+	<SDL.h>
+
+1682431434 d:\lap_trinh\github\game_project\whiteknight\src\physics\rigidbody.h
+	"Vector2D.h"
+
+1683712342 d:\lap_trinh\github\game_project\whiteknight\src\characters\enemy.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+	"vector"
+
+1683466900 d:\lap_trinh\github\game_project\whiteknight\src\button\button.h
+	<SDL.h>
+	<string>
+	<vector>
+	"Input.h"
+	"GameObject.h"
+	"Warrior.h"
+
+1682521824 d:\lap_trinh\github\game_project\whiteknight\src\inputs\input.h
+	<SDL.h>
+	<Vector2D.h>
+
+1683128358 d:\lap_trinh\github\game_project\whiteknight\src\states\menu.h
+	"Engine.h"
+	"Button.h"
+	"Play.h"
+
+1682860920 d:\lap_trinh\github\game_project\whiteknight\src\states\menupause.h
+	"Engine.h"
+	"Button.h"
+	"Play.h"
+
+1682914557 d:\lap_trinh\github\game_project\whiteknight\src\states\gameover.h
+	"Engine.h"
+	"Button.h"
+	"Play.h"
+
+1683171341 d:\lap_trinh\github\game_project\whiteknight\src\graphics\texturemanage.h
+	<string>
+	<SDL.h>
+	<map>
+	"Play.h"
+
+1683466217 d:\lap_trinh\github\game_project\whiteknight\src\timer\timer.h
+	<iostream>
+
+1680421057 source:d:\lap_trinh\github\game_project\whiteknight\src\animation\animation.cpp
+	"Animation.h"
+	"TextureManage.h"
+
+1683469099 source:d:\lap_trinh\github\game_project\whiteknight\src\button\button.cpp
+	"Button.h"
+	"Vector2D.h"
+	"TextureManage.h"
+	"SoundMgr.h"
+	"Timer.h"
+
+1683713419 d:\lap_trinh\github\game_project\whiteknight\src\sounds\soundmgr.h
+	<map>
+	<string>
+	<iostream>
+	<SDL_mixer.h>
+
+1681313517 source:d:\lap_trinh\github\game_project\whiteknight\src\camera\camera.cpp
+	"Camera.h"
+
+1680421057 d:\lap_trinh\github\game_project\whiteknight\src\camera\camera.h
+	<SDL.h>
+	"Play.h"
+	"Point.h"
+	"Vector2D.h"
+
+1683713783 source:d:\lap_trinh\github\game_project\whiteknight\src\characters\enemy.cpp
+	"Enemy.h"
+	"TextureManage.h"
+	"Input.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"Warrior.h"
+	"SoundMgr.h"
+
+1683168329 d:\lap_trinh\github\game_project\whiteknight\src\collision\collisionhandler.h
+	<SDL.h>
+	"Vector2D.h"
+	"TileLayer.h"
+	"GameMap.h"
+	"Engine.h"
+	<vector>
+
+1680847859 d:\lap_trinh\github\game_project\whiteknight\src\map\tilelayer.h
+	"Layer.h"
+	<string>
+	<vector>
+
+1683712654 source:d:\lap_trinh\github\game_project\whiteknight\src\characters\warrior.cpp
+	"Warrior.h"
+	"TextureManage.h"
+	"Input.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"SoundMgr.h"
+
+1683170337 source:d:\lap_trinh\github\game_project\whiteknight\src\collision\collisionhandler.cpp
+	"CollisionHandler.h"
+	"Play.h"
+
+1683166498 source:d:\lap_trinh\github\game_project\whiteknight\src\core\engine.cpp
+	"Engine.h"
+	"TextureManage.h"
+	"Input.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"MapParser.h"
+	<iostream>
+	"Camera.h"
+	"CollisionHandler.h"
+	<SDL_mixer.h>
+	"SoundMgr.h"
+	<SDL_ttf.h>
+
+1680835999 d:\lap_trinh\github\game_project\whiteknight\src\map\mapparser.h
+	<map>
+	<string>
+	"GameMap.h"
+	"TileLayer.h"
+	"tinyxml.h"
+
+1683129217 d:\lap_trinh\github\game_project\whiteknight\src\vendor\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1376507762 d:\lap_trinh\github\game_project\whiteknight\src\vendor\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1683171310 source:d:\lap_trinh\github\game_project\whiteknight\src\graphics\texturemanage.cpp
+	"TextureManage.h"
+	"Camera.h"
+
+1683468558 source:d:\lap_trinh\github\game_project\whiteknight\src\inputs\input.cpp
+	"Input.h"
+	"Play.h"
+	"Engine.h"
+
+1683713194 source:d:\lap_trinh\github\game_project\whiteknight\src\sounds\soundmgr.cpp
+	"SoundMgr.h"
+
+1683111786 source:d:\lap_trinh\github\game_project\whiteknight\src\states\gameover.cpp
+	"GameOver.h"
+	"TextureManage.h"
+	"SoundMgr.h"
+
+1683128358 source:d:\lap_trinh\github\game_project\whiteknight\src\states\menu.cpp
+	"Menu.h"
+	"TextureManage.h"
+	"SoundMgr.h"
+
+1682863243 source:d:\lap_trinh\github\game_project\whiteknight\src\states\menupause.cpp
+	"MenuPause.h"
+	"TextureManage.h"
+
+1683125451 source:d:\lap_trinh\github\game_project\whiteknight\src\text\textmgr.cpp
+	"TextMgr.h"
+	"Engine.h"
+
+1683128181 d:\lap_trinh\github\game_project\whiteknight\src\text\textmgr.h
+	<string>
+	<iostream>
+	<SDL_ttf.h>
+
+1683466204 source:d:\lap_trinh\github\game_project\whiteknight\src\timer\timer.cpp
+	"Timer.h"
+	<SDL.h>
+

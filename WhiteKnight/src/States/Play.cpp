@@ -66,14 +66,14 @@ bool Play::Init()
     SoundMgr::GetInstance()->LoadEffect("B_Died", "assets/Sounds/B_Died.wav");
     SoundMgr::GetInstance()->LoadEffect("plant_died", "assets/Sounds/plant_died.wav");
 
-    m_Warrior = new Warrior(new Properties("player_idle", 0, 0, 240, 240));
+    m_Warrior = new Warrior(new Properties("player_idle", 0, 200, 240, 240));
 
     srand(time(0));
 
     for (int i = 0; i < 6; i++)
     {
         int rd = rand() % 300;
-        Enemy* boss = new Enemy(new Properties("cnv_plant", 1000 + 1000 * i + rd, -256, 256, 256));
+        Enemy* boss = new Enemy(new Properties("cnv_plant", 1000 + 1000 * i + rd, 200, 256, 256));
         m_Enemies.push_back(boss);
     }
     Enemy* death = new Enemy(new Properties("bod_idle", 7300, 200, 336, 208));
@@ -265,14 +265,14 @@ void Play::Clean()
 
 bool Play::InitAgain()
 {
-    m_Warrior = new Warrior(new Properties("player_idle", 0, 0, 240, 240));
+    m_Warrior = new Warrior(new Properties("player_idle", 0, 200, 240, 240));
     m_Warrior->SetHP(270);
     m_Score = 0;
     m_alive = true;
     for (int i = 0; i < 6; i++)
     {
         int rd = rand() % 300;
-        Enemy* boss = new Enemy(new Properties("cnv_plant", 1000 + 1000 * i + rd, -256, 256, 256));
+        Enemy* boss = new Enemy(new Properties("cnv_plant", 1000 + 1000 * i + rd, 200, 256, 256));
         m_Enemies.push_back(boss);
     }
     Enemy* death = new Enemy(new Properties("bod_idle", 7400, 200, 336, 208));
