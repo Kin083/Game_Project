@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="A+SuperGame" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/A+SuperGame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="src/Core" />
+					<Add directory="src/Graphics" />
+					<Add directory="src/Physics" />
+					<Add directory="src/Object" />
+					<Add directory="src/Characters" />
+					<Add directory="src/Animation" />
+					<Add directory="src/Inputs" />
+					<Add directory="src/Timer" />
+					<Add directory="src/Map" />
+					<Add directory="assets/Maps" />
+					<Add directory="src/Vendor/TinyXML" />
+					<Add directory="src/Camera" />
+					<Add directory="src/Collision" />
+					<Add directory="src/States" />
+					<Add directory="src/Core_01" />
+					<Add directory="src/Button" />
+					<Add directory="src/Bullet" />
+					<Add directory="src/Sounds" />
+					<Add directory="src/Text" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/A+SuperGame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="src/Core" />
+					<Add directory="src/Graphics" />
+					<Add directory="src/Physics" />
+					<Add directory="src/Object" />
+					<Add directory="src/Characters" />
+					<Add directory="src/Animation" />
+					<Add directory="src/Inputs" />
+					<Add directory="src/Timer" />
+					<Add directory="src/Map" />
+					<Add directory="assets/Maps" />
+					<Add directory="src/Camera" />
+					<Add directory="src/Collision" />
+					<Add directory="src/States" />
+					<Add directory="src/Core_01" />
+					<Add directory="src/Button" />
+					<Add directory="src/Bullet" />
+					<Add directory="src/Sounds" />
+					<Add directory="src/Text" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Animation/Animation.cpp" />
+		<Unit filename="src/Animation/Animation.h" />
+		<Unit filename="src/Button/Button.cpp" />
+		<Unit filename="src/Button/Button.h" />
+		<Unit filename="src/Camera/Camera.cpp" />
+		<Unit filename="src/Camera/Camera.h" />
+		<Unit filename="src/Characters/Character.h" />
+		<Unit filename="src/Characters/Enemy.cpp" />
+		<Unit filename="src/Characters/Enemy.h" />
+		<Unit filename="src/Characters/Warrior.cpp" />
+		<Unit filename="src/Characters/Warrior.h" />
+		<Unit filename="src/Collision/CollisionHandler.cpp" />
+		<Unit filename="src/Collision/CollisionHandler.h" />
+		<Unit filename="src/Core/Engine.cpp" />
+		<Unit filename="src/Core/Engine.h" />
+		<Unit filename="src/Graphics/TextureManage.cpp" />
+		<Unit filename="src/Graphics/TextureManage.h" />
+		<Unit filename="src/Inputs/Input.cpp" />
+		<Unit filename="src/Inputs/Input.h" />
+		<Unit filename="src/Object/GameObject.h" />
+		<Unit filename="src/Physics/Collider.h" />
+		<Unit filename="src/Physics/Point.h" />
+		<Unit filename="src/Physics/RigidBody.h" />
+		<Unit filename="src/Physics/Transform.h" />
+		<Unit filename="src/Physics/Vector2D.h" />
+		<Unit filename="src/Sounds/SoundMgr.cpp" />
+		<Unit filename="src/Sounds/SoundMgr.h" />
+		<Unit filename="src/States/GameOver.cpp" />
+		<Unit filename="src/States/GameOver.h" />
+		<Unit filename="src/States/Menu.cpp" />
+		<Unit filename="src/States/Menu.h" />
+		<Unit filename="src/States/MenuPause.cpp" />
+		<Unit filename="src/States/MenuPause.h" />
+		<Unit filename="src/States/Play.cpp" />
+		<Unit filename="src/States/Play.h" />
+		<Unit filename="src/Text/TextMgr.cpp" />
+		<Unit filename="src/Text/TextMgr.h" />
+		<Unit filename="src/Timer/Timer.cpp" />
+		<Unit filename="src/Timer/Timer.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

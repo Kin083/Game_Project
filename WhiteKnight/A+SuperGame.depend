@@ -1,0 +1,2210 @@
+# depslib dependency file v1.0
+1678803399 source:d:\lap_trinh\a+supergame\a+supergame\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Engine.h"
+	"TextureManage.h"
+	"Timer.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Engine.h"
+	"TextureManage.h"
+	"Timer.h"
+
+1679933267 d:\lap_trinh\a+supergame\a+supergame\src\core\engine.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"GameMap.h"
+	"GameObject.h"
+	"Warrior.h"
+	"Enemy.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"GameMap.h"
+	"GameObject.h"
+	"Warrior.h"
+	"Enemy.h"
+
+1679934342 source:d:\lap_trinh\a+supergame\a+supergame\src\core\engine.cpp
+	"Engine.h"
+	"TextureManage.h"
+	"Input.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"MapParser.h"
+	<iostream>
+	"Camera.h"
+	"CollisionHandler.h"
+	"Engine.h"
+	"TextureManage.h"
+	"Input.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"MapParser.h"
+	<iostream>
+	"Camera.h"
+	"CollisionHandler.h"
+
+1679721525 source:d:\lap_trinh\a+supergame\a+supergame\src\graphics\texturemanage.cpp
+	"TextureManage.h"
+	"Camera.h"
+	"TextureManage.h"
+	"Camera.h"
+
+1679839911 d:\lap_trinh\a+supergame\a+supergame\src\graphics\texturemanage.h
+	<string>
+	<SDL.h>
+	<map>
+	"Engine.h"
+	<string>
+	<SDL.h>
+	<map>
+	"Engine.h"
+
+1678788384 d:\lap_trinh\a+supergame\a+supergame\src\physics\transform.h
+	"Vector2D.h"
+	"Vector2D.h"
+
+1678760390 d:\lap_trinh\a+supergame\a+supergame\src\physics\vector2d.h
+	<iostream>
+	<iostream>
+
+1679920207 source:d:\lap_trinh\a+supergame\a+supergame\src\characters\warrior.cpp
+	"Warrior.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Engine.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"Warrior.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Engine.h"
+	"CollisionHandler.h"
+	"Camera.h"
+
+1679918187 d:\lap_trinh\a+supergame\a+supergame\src\characters\warrior.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+
+1679916245 d:\lap_trinh\a+supergame\a+supergame\src\characters\character.h
+	"GameObject.h"
+	<string>
+	"GameObject.h"
+	<string>
+
+1679917581 d:\lap_trinh\a+supergame\a+supergame\src\object\gameobject.h
+	"IObject.h"
+	"Transform.h"
+	<SDL.h>
+	"Point.h"
+	"Collider.h"
+	"IObject.h"
+	"Transform.h"
+	<SDL.h>
+	"Point.h"
+	"Collider.h"
+
+1679917583 d:\lap_trinh\a+supergame\a+supergame\src\object\iobject.h
+	"Collider.h"
+	"Collider.h"
+
+1679197323 d:\lap_trinh\a+supergame\a+supergame\src\animation\animation.h
+	<string>
+	<SDL.h>
+	<string>
+	<SDL.h>
+
+1679197516 source:d:\lap_trinh\a+supergame\a+supergame\src\animation\animation.cpp
+	"Animation.h"
+	"TextureManage.h"
+	"Animation.h"
+	"TextureManage.h"
+
+1679205169 d:\lap_trinh\a+supergame\a+supergame\src\physics\rigidbody.h
+	"Vector2D.h"
+	"Vector2D.h"
+
+1679199806 d:\lap_trinh\a+supergame\a+supergame\src\inputs\input.h
+	<SDL.h>
+	<SDL.h>
+
+1679207928 source:d:\lap_trinh\a+supergame\a+supergame\src\inputs\input.cpp
+	"Input.h"
+	"Engine.h"
+	"Input.h"
+	"Engine.h"
+
+1679057745 d:\lap_trinh\a+supergame\a+supergame\src\timer\timer.h
+	<iostream>
+	<iostream>
+
+1679210544 source:d:\lap_trinh\a+supergame\a+supergame\src\timer\timer.cpp
+	"Timer.h"
+	<SDL.h>
+	"Timer.h"
+	<SDL.h>
+
+1679916016 source:d:\lap_trinh\a+supergame\a+supergame\src\map\tilelayer.cpp
+	"TileLayer.h"
+	"TextureManage.h"
+	"TileLayer.h"
+	"TextureManage.h"
+
+1679838171 d:\lap_trinh\a+supergame\a+supergame\src\map\tilelayer.h
+	"Layer.h"
+	<string>
+	<vector>
+	"Layer.h"
+	<string>
+	<vector>
+
+1678976137 d:\lap_trinh\a+supergame\a+supergame\src\map\layer.h
+
+1679916182 d:\lap_trinh\a+supergame\a+supergame\src\map\gamemap.h
+	<vector>
+	"Layer.h"
+	<vector>
+	"Layer.h"
+
+1376507762 source:d:\lap_trinh\a+supergame\a+supergame\src\vendor\tinyxml\tinystr.cpp
+	"tinystr.h"
+	"tinystr.h"
+
+1376507762 d:\lap_trinh\a+supergame\a+supergame\src\vendor\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+	<assert.h>
+	<string.h>
+
+1376507762 source:d:\lap_trinh\a+supergame\a+supergame\src\vendor\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1376507762 d:\lap_trinh\a+supergame\a+supergame\src\vendor\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1376507762 source:d:\lap_trinh\a+supergame\a+supergame\src\vendor\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+	"tinyxml.h"
+
+1376507762 source:d:\lap_trinh\a+supergame\a+supergame\src\vendor\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1679837736 d:\lap_trinh\a+supergame\a+supergame\src\map\mapparser.h
+	<map>
+	<string>
+	"GameMap.h"
+	"TileLayer.h"
+	"tinyxml.h"
+	<map>
+	<string>
+	"GameMap.h"
+	"TileLayer.h"
+	"tinyxml.h"
+
+1679930783 source:d:\lap_trinh\a+supergame\a+supergame\src\map\mapparser.cpp
+	"MapParser.h"
+	<sstream>
+	<fstream>
+	"MapParser.h"
+	<sstream>
+	<fstream>
+
+1679060069 source:d:\lap_trinh\a+supergame\a+supergame\src\camera\camera.cpp
+	"Camera.h"
+	"Camera.h"
+
+1679061963 d:\lap_trinh\a+supergame\a+supergame\src\camera\camera.h
+	<SDL.h>
+	"Engine.h"
+	"Point.h"
+	"Vector2D.h"
+	<SDL.h>
+	"Engine.h"
+	"Point.h"
+	"Vector2D.h"
+
+1679057669 d:\lap_trinh\a+supergame\a+supergame\src\physics\point.h
+	<iostream>
+	<iostream>
+
+1679930828 source:d:\lap_trinh\a+supergame\a+supergame\src\collision\collisionhandler.cpp
+	"CollisionHandler.h"
+	"Engine.h"
+	"CollisionHandler.h"
+	"Engine.h"
+
+1679837860 d:\lap_trinh\a+supergame\a+supergame\src\collision\collisionhandler.h
+	<SDL.h>
+	"Vector2D.h"
+	"TileLayer.h"
+	"GameMap.h"
+	<SDL.h>
+	"Vector2D.h"
+	"TileLayer.h"
+	"GameMap.h"
+
+1679111939 d:\lap_trinh\a+supergame\a+supergame\src\physics\collider.h
+	<SDL.h>
+	<SDL.h>
+
+1679917538 source:d:\lap_trinh\a+supergame\a+supergame\src\characters\enemy.cpp
+	"Enemy.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Engine.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"Warrior.h"
+	"Enemy.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Engine.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"Warrior.h"
+
+1679917981 d:\lap_trinh\a+supergame\a+supergame\src\characters\enemy.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+
+1679834972 source:d:\lap_trinh\a+supergame\a+supergame\src\states\menu.cpp
+	"Menu.h"
+	"Play.h"
+	"Engine.h"
+	"Input.h"
+	"Menu.h"
+	"Play.h"
+	"Engine.h"
+	"Input.h"
+
+1679835830 d:\lap_trinh\a+supergame\a+supergame\src\states\menu.h
+	"GameState.h"
+	"GameState.h"
+
+1679835847 d:\lap_trinh\a+supergame\a+supergame\src\states\gamestate.h
+	<SDL.h>
+	<SDL.h>
+
+1679837736 d:\lap_trinh\a+supergame\a+supergame\src\states\play.h
+	<iostream>
+	"GameMap.h"
+	"GameObject.h"
+	"GameState.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"Menu.h"
+	"Input.h"
+	"Camera.h"
+	"MapParser.h"
+	"TileLayer.h"
+	"TextureManage.h"
+	"CollisionHandler.h"
+	<iostream>
+	"GameMap.h"
+	"GameObject.h"
+	"GameState.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"Menu.h"
+	"Input.h"
+	"Camera.h"
+	"MapParser.h"
+	"TileLayer.h"
+	"TextureManage.h"
+	"CollisionHandler.h"
+
+1679835869 source:d:\lap_trinh\a+supergame\a+supergame\src\states\play.cpp
+	"Play.h"
+	"Play.h"
+
+1679837399 d:\lap_trinh\a+supergame\a+supergame\src\map\tilemap.h
+	<vector>
+	"Layer.h"
+	<vector>
+	"Layer.h"
+
+1679842408 source:d:\lap_trinh\a+supergame\a+supergame\src\map\imglayer.cpp
+	"ImgLayer.h"
+	"TextureManage.h"
+	"ImgLayer.h"
+	"TextureManage.h"
+
+1679840213 d:\lap_trinh\a+supergame\a+supergame\src\map\imglayer.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	"Layer.h"
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	"Layer.h"
+
+1680277019 source:d:\lap_trinh\a+supergame\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Engine.h"
+	"TextureManage.h"
+	"Timer.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Engine.h"
+	"TextureManage.h"
+	"Timer.h"
+
+1680276279 d:\lap_trinh\a+supergame\src\core\engine.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"GameMap.h"
+	"GameObject.h"
+	"Warrior.h"
+	"Enemy.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"GameMap.h"
+	"GameObject.h"
+	"Warrior.h"
+	"Enemy.h"
+
+1679916182 d:\lap_trinh\a+supergame\src\map\gamemap.h
+	<vector>
+	"Layer.h"
+	<vector>
+	"Layer.h"
+
+1678976137 d:\lap_trinh\a+supergame\src\map\layer.h
+
+1679917581 d:\lap_trinh\a+supergame\src\object\gameobject.h
+	"IObject.h"
+	"Transform.h"
+	<SDL.h>
+	"Point.h"
+	"Collider.h"
+	"IObject.h"
+	"Transform.h"
+	<SDL.h>
+	"Point.h"
+	"Collider.h"
+
+1679917583 d:\lap_trinh\a+supergame\src\object\iobject.h
+	"Collider.h"
+	"Collider.h"
+
+1679111939 d:\lap_trinh\a+supergame\src\physics\collider.h
+	<SDL.h>
+	<SDL.h>
+
+1678788384 d:\lap_trinh\a+supergame\src\physics\transform.h
+	"Vector2D.h"
+	"Vector2D.h"
+
+1678760390 d:\lap_trinh\a+supergame\src\physics\vector2d.h
+	<iostream>
+	<iostream>
+
+1679057669 d:\lap_trinh\a+supergame\src\physics\point.h
+	<iostream>
+	<iostream>
+
+1680253342 d:\lap_trinh\a+supergame\src\characters\warrior.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+
+1679916245 d:\lap_trinh\a+supergame\src\characters\character.h
+	"GameObject.h"
+	<string>
+	"GameObject.h"
+	<string>
+
+1679197323 d:\lap_trinh\a+supergame\src\animation\animation.h
+	<string>
+	<SDL.h>
+	<string>
+	<SDL.h>
+
+1679205169 d:\lap_trinh\a+supergame\src\physics\rigidbody.h
+	"Vector2D.h"
+	"Vector2D.h"
+
+1679917981 d:\lap_trinh\a+supergame\src\characters\enemy.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+
+1679839911 d:\lap_trinh\a+supergame\src\graphics\texturemanage.h
+	<string>
+	<SDL.h>
+	<map>
+	"Engine.h"
+	<string>
+	<SDL.h>
+	<map>
+	"Engine.h"
+
+1679057745 d:\lap_trinh\a+supergame\src\timer\timer.h
+	<iostream>
+	<iostream>
+
+1679197516 source:d:\lap_trinh\a+supergame\src\animation\animation.cpp
+	"Animation.h"
+	"TextureManage.h"
+	"Animation.h"
+	"TextureManage.h"
+
+1679060069 source:d:\lap_trinh\a+supergame\src\camera\camera.cpp
+	"Camera.h"
+	"Camera.h"
+
+1679061963 d:\lap_trinh\a+supergame\src\camera\camera.h
+	<SDL.h>
+	"Engine.h"
+	"Point.h"
+	"Vector2D.h"
+	<SDL.h>
+	"Engine.h"
+	"Point.h"
+	"Vector2D.h"
+
+1680176063 source:d:\lap_trinh\a+supergame\src\characters\enemy.cpp
+	"Enemy.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Engine.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"Warrior.h"
+	"Enemy.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Engine.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"Warrior.h"
+
+1679199806 d:\lap_trinh\a+supergame\src\inputs\input.h
+	<SDL.h>
+	<SDL.h>
+
+1679837860 d:\lap_trinh\a+supergame\src\collision\collisionhandler.h
+	<SDL.h>
+	"Vector2D.h"
+	"TileLayer.h"
+	"GameMap.h"
+	<SDL.h>
+	"Vector2D.h"
+	"TileLayer.h"
+	"GameMap.h"
+
+1679838171 d:\lap_trinh\a+supergame\src\map\tilelayer.h
+	"Layer.h"
+	<string>
+	<vector>
+	"Layer.h"
+	<string>
+	<vector>
+
+1680253724 source:d:\lap_trinh\a+supergame\src\characters\warrior.cpp
+	"Warrior.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Engine.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"Warrior.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Engine.h"
+	"CollisionHandler.h"
+	"Camera.h"
+
+1680277377 source:d:\lap_trinh\a+supergame\src\collision\collisionhandler.cpp
+	"CollisionHandler.h"
+	"Engine.h"
+	"CollisionHandler.h"
+	"Engine.h"
+
+1680277061 source:d:\lap_trinh\a+supergame\src\core\engine.cpp
+	"Engine.h"
+	"TextureManage.h"
+	"Input.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"MapParser.h"
+	<iostream>
+	"Camera.h"
+	"CollisionHandler.h"
+	"Engine.h"
+	"TextureManage.h"
+	"Input.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"MapParser.h"
+	<iostream>
+	"Camera.h"
+	"CollisionHandler.h"
+
+1679837736 d:\lap_trinh\a+supergame\src\map\mapparser.h
+	<map>
+	<string>
+	"GameMap.h"
+	"TileLayer.h"
+	"tinyxml.h"
+	<map>
+	<string>
+	"GameMap.h"
+	"TileLayer.h"
+	"tinyxml.h"
+
+1376507762 d:\lap_trinh\a+supergame\src\vendor\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1376507762 d:\lap_trinh\a+supergame\src\vendor\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+	<assert.h>
+	<string.h>
+
+1679721525 source:d:\lap_trinh\a+supergame\src\graphics\texturemanage.cpp
+	"TextureManage.h"
+	"Camera.h"
+	"TextureManage.h"
+	"Camera.h"
+
+1680277027 source:d:\lap_trinh\a+supergame\src\inputs\input.cpp
+	"Input.h"
+	"Engine.h"
+	"Input.h"
+	"Engine.h"
+
+1679842408 source:d:\lap_trinh\a+supergame\src\map\imglayer.cpp
+	"ImgLayer.h"
+	"TextureManage.h"
+	"ImgLayer.h"
+	"TextureManage.h"
+
+1679840213 d:\lap_trinh\a+supergame\src\map\imglayer.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	"Layer.h"
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	"Layer.h"
+
+1680190468 source:d:\lap_trinh\a+supergame\src\map\mapparser.cpp
+	"MapParser.h"
+	<sstream>
+	<fstream>
+	"MapParser.h"
+	<sstream>
+	<fstream>
+
+1679916016 source:d:\lap_trinh\a+supergame\src\map\tilelayer.cpp
+	"TileLayer.h"
+	"TextureManage.h"
+	"TileLayer.h"
+	"TextureManage.h"
+
+1679210544 source:d:\lap_trinh\a+supergame\src\timer\timer.cpp
+	"Timer.h"
+	<SDL.h>
+	"Timer.h"
+	<SDL.h>
+
+1376507762 source:d:\lap_trinh\a+supergame\src\vendor\tinyxml\tinystr.cpp
+	"tinystr.h"
+	"tinystr.h"
+
+1376507762 source:d:\lap_trinh\a+supergame\src\vendor\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1376507762 source:d:\lap_trinh\a+supergame\src\vendor\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+	"tinyxml.h"
+
+1376507762 source:d:\lap_trinh\a+supergame\src\vendor\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1680406763 source:d:\lap_trinh\a+supergame_02\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Engine.h"
+	"TextureManage.h"
+	"Timer.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Engine.h"
+	"TextureManage.h"
+	"Timer.h"
+
+1680417900 d:\lap_trinh\a+supergame_02\src\core\engine.h
+	"Play.h"
+	"Menu.h"
+	"Play.h"
+	"Menu.h"
+
+1679916182 d:\lap_trinh\a+supergame_02\src\map\gamemap.h
+	<vector>
+	"Layer.h"
+	<vector>
+	"Layer.h"
+
+1678976137 d:\lap_trinh\a+supergame_02\src\map\layer.h
+
+1679917581 d:\lap_trinh\a+supergame_02\src\object\gameobject.h
+	"IObject.h"
+	"Transform.h"
+	<SDL.h>
+	"Point.h"
+	"Collider.h"
+	"IObject.h"
+	"Transform.h"
+	<SDL.h>
+	"Point.h"
+	"Collider.h"
+
+1679917583 d:\lap_trinh\a+supergame_02\src\object\iobject.h
+	"Collider.h"
+	"Collider.h"
+
+1679111939 d:\lap_trinh\a+supergame_02\src\physics\collider.h
+	<SDL.h>
+	<SDL.h>
+
+1678788384 d:\lap_trinh\a+supergame_02\src\physics\transform.h
+	"Vector2D.h"
+	"Vector2D.h"
+
+1678760390 d:\lap_trinh\a+supergame_02\src\physics\vector2d.h
+	<iostream>
+	<iostream>
+
+1679057669 d:\lap_trinh\a+supergame_02\src\physics\point.h
+	<iostream>
+	<iostream>
+
+1680253342 d:\lap_trinh\a+supergame_02\src\characters\warrior.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+
+1679916245 d:\lap_trinh\a+supergame_02\src\characters\character.h
+	"GameObject.h"
+	<string>
+	"GameObject.h"
+	<string>
+
+1679197323 d:\lap_trinh\a+supergame_02\src\animation\animation.h
+	<string>
+	<SDL.h>
+	<string>
+	<SDL.h>
+
+1679205169 d:\lap_trinh\a+supergame_02\src\physics\rigidbody.h
+	"Vector2D.h"
+	"Vector2D.h"
+
+1679917981 d:\lap_trinh\a+supergame_02\src\characters\enemy.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+
+1680406542 d:\lap_trinh\a+supergame_02\src\graphics\texturemanage.h
+	<string>
+	<SDL.h>
+	<map>
+	"Play.h"
+	<string>
+	<SDL.h>
+	<map>
+	"Play.h"
+
+1679057745 d:\lap_trinh\a+supergame_02\src\timer\timer.h
+	<iostream>
+	<iostream>
+
+1679197516 source:d:\lap_trinh\a+supergame_02\src\animation\animation.cpp
+	"Animation.h"
+	"TextureManage.h"
+	"Animation.h"
+	"TextureManage.h"
+
+1679060069 source:d:\lap_trinh\a+supergame_02\src\camera\camera.cpp
+	"Camera.h"
+	"Camera.h"
+
+1680406542 d:\lap_trinh\a+supergame_02\src\camera\camera.h
+	<SDL.h>
+	"Play.h"
+	"Point.h"
+	"Vector2D.h"
+	<SDL.h>
+	"Play.h"
+	"Point.h"
+	"Vector2D.h"
+
+1680406542 source:d:\lap_trinh\a+supergame_02\src\characters\enemy.cpp
+	"Enemy.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Play.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"Warrior.h"
+	"Enemy.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Play.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"Warrior.h"
+
+1680363817 d:\lap_trinh\a+supergame_02\src\inputs\input.h
+	<SDL.h>
+	<SDL.h>
+
+1679837860 d:\lap_trinh\a+supergame_02\src\collision\collisionhandler.h
+	<SDL.h>
+	"Vector2D.h"
+	"TileLayer.h"
+	"GameMap.h"
+	<SDL.h>
+	"Vector2D.h"
+	"TileLayer.h"
+	"GameMap.h"
+
+1679838171 d:\lap_trinh\a+supergame_02\src\map\tilelayer.h
+	"Layer.h"
+	<string>
+	<vector>
+	"Layer.h"
+	<string>
+	<vector>
+
+1680406542 source:d:\lap_trinh\a+supergame_02\src\characters\warrior.cpp
+	"Warrior.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Play.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"Warrior.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Play.h"
+	"CollisionHandler.h"
+	"Camera.h"
+
+1680406542 source:d:\lap_trinh\a+supergame_02\src\collision\collisionhandler.cpp
+	"CollisionHandler.h"
+	"Play.h"
+	"CollisionHandler.h"
+	"Play.h"
+
+1680418185 source:d:\lap_trinh\a+supergame_02\src\core\engine.cpp
+	"Engine.h"
+	"TextureManage.h"
+	"Input.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"MapParser.h"
+	<iostream>
+	"Camera.h"
+	"CollisionHandler.h"
+	"Engine.h"
+	"TextureManage.h"
+	"Input.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"MapParser.h"
+	<iostream>
+	"Camera.h"
+	"CollisionHandler.h"
+
+1679837736 d:\lap_trinh\a+supergame_02\src\map\mapparser.h
+	<map>
+	<string>
+	"GameMap.h"
+	"TileLayer.h"
+	"tinyxml.h"
+	<map>
+	<string>
+	"GameMap.h"
+	"TileLayer.h"
+	"tinyxml.h"
+
+1376507762 d:\lap_trinh\a+supergame_02\src\vendor\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1376507762 d:\lap_trinh\a+supergame_02\src\vendor\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+	<assert.h>
+	<string.h>
+
+1680417100 source:d:\lap_trinh\a+supergame_02\src\graphics\texturemanage.cpp
+	"TextureManage.h"
+	"Camera.h"
+	"TextureManage.h"
+	"Camera.h"
+
+1680411310 source:d:\lap_trinh\a+supergame_02\src\inputs\input.cpp
+	"Input.h"
+	"Play.h"
+	"Engine.h"
+	"Input.h"
+	"Play.h"
+	"Engine.h"
+
+1679842408 source:d:\lap_trinh\a+supergame_02\src\map\imglayer.cpp
+	"ImgLayer.h"
+	"TextureManage.h"
+	"ImgLayer.h"
+	"TextureManage.h"
+
+1679840213 d:\lap_trinh\a+supergame_02\src\map\imglayer.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	"Layer.h"
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	"Layer.h"
+
+1680190468 source:d:\lap_trinh\a+supergame_02\src\map\mapparser.cpp
+	"MapParser.h"
+	<sstream>
+	<fstream>
+	"MapParser.h"
+	<sstream>
+	<fstream>
+
+1679916016 source:d:\lap_trinh\a+supergame_02\src\map\tilelayer.cpp
+	"TileLayer.h"
+	"TextureManage.h"
+	"TileLayer.h"
+	"TextureManage.h"
+
+1679210544 source:d:\lap_trinh\a+supergame_02\src\timer\timer.cpp
+	"Timer.h"
+	<SDL.h>
+	"Timer.h"
+	<SDL.h>
+
+1376507762 source:d:\lap_trinh\a+supergame_02\src\vendor\tinyxml\tinystr.cpp
+	"tinystr.h"
+	"tinystr.h"
+
+1376507762 source:d:\lap_trinh\a+supergame_02\src\vendor\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1376507762 source:d:\lap_trinh\a+supergame_02\src\vendor\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+	"tinyxml.h"
+
+1376507762 source:d:\lap_trinh\a+supergame_02\src\vendor\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1680406300 d:\lap_trinh\a+supergame_02\src\core_01\engine_01.h
+	"Engine.h"
+	"Engine.h"
+
+1680364012 source:d:\lap_trinh\a+supergame_02\src\core_01\engine_01.cpp
+	"Engine_01.h"
+	"Engine_01.h"
+
+1680417895 d:\lap_trinh\a+supergame_02\src\states\play.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"GameMap.h"
+	"GameObject.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Engine.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"GameMap.h"
+	"GameObject.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Engine.h"
+
+1680417310 source:d:\lap_trinh\a+supergame_02\src\states\play.cpp
+	"Play.h"
+	"TextureManage.h"
+	"Input.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"MapParser.h"
+	<iostream>
+	"Camera.h"
+	"CollisionHandler.h"
+	"Play.h"
+	"TextureManage.h"
+	"Input.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"MapParser.h"
+	<iostream>
+	"Camera.h"
+	"CollisionHandler.h"
+
+1680418126 source:d:\lap_trinh\a+supergame_02\src\states\menu.cpp
+	"Menu.h"
+	"TextureManage.h"
+	"Menu.h"
+	"TextureManage.h"
+
+1680417259 d:\lap_trinh\a+supergame_02\src\states\menu.h
+	"Engine.h"
+	"Engine.h"
+
+1680406763 source:d:\lap_trinh\a+supergame01\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Engine.h"
+	"TextureManage.h"
+	"Timer.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Engine.h"
+	"TextureManage.h"
+	"Timer.h"
+
+1680418606 d:\lap_trinh\a+supergame01\src\core\engine.h
+	"Play.h"
+	"Menu.h"
+	"Play.h"
+	"Menu.h"
+
+1680423164 d:\lap_trinh\a+supergame01\src\states\play.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"GameMap.h"
+	"GameObject.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Engine.h"
+	"Warrior2.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"GameMap.h"
+	"GameObject.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Engine.h"
+	"Warrior2.h"
+
+1679916182 d:\lap_trinh\a+supergame01\src\map\gamemap.h
+	<vector>
+	"Layer.h"
+	<vector>
+	"Layer.h"
+
+1678976137 d:\lap_trinh\a+supergame01\src\map\layer.h
+
+1680421057 d:\lap_trinh\a+supergame01\src\object\gameobject.h
+	"IObject.h"
+	"Transform.h"
+	<SDL.h>
+	"Point.h"
+	"Collider.h"
+	"IObject.h"
+	"Transform.h"
+	<SDL.h>
+	"Point.h"
+	"Collider.h"
+
+1680421057 d:\lap_trinh\a+supergame01\src\object\iobject.h
+	"Collider.h"
+	"Collider.h"
+
+1679111939 d:\lap_trinh\a+supergame01\src\physics\collider.h
+	<SDL.h>
+	<SDL.h>
+
+1680421057 d:\lap_trinh\a+supergame01\src\physics\transform.h
+	"Vector2D.h"
+	"Vector2D.h"
+
+1680421057 d:\lap_trinh\a+supergame01\src\physics\vector2d.h
+	<iostream>
+	<iostream>
+
+1680421057 d:\lap_trinh\a+supergame01\src\physics\point.h
+	<iostream>
+	<iostream>
+
+1680421466 d:\lap_trinh\a+supergame01\src\characters\warrior.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+
+1680421057 d:\lap_trinh\a+supergame01\src\characters\character.h
+	"GameObject.h"
+	<string>
+	"GameObject.h"
+	<string>
+
+1680421057 d:\lap_trinh\a+supergame01\src\animation\animation.h
+	<string>
+	<SDL.h>
+	<string>
+	<SDL.h>
+
+1680421130 d:\lap_trinh\a+supergame01\src\physics\rigidbody.h
+	"Vector2D.h"
+	"Vector2D.h"
+
+1680421057 d:\lap_trinh\a+supergame01\src\characters\enemy.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+
+1680417259 d:\lap_trinh\a+supergame01\src\states\menu.h
+	"Engine.h"
+	"Engine.h"
+
+1680421057 d:\lap_trinh\a+supergame01\src\graphics\texturemanage.h
+	<string>
+	<SDL.h>
+	<map>
+	"Play.h"
+	<string>
+	<SDL.h>
+	<map>
+	"Play.h"
+
+1680421057 d:\lap_trinh\a+supergame01\src\timer\timer.h
+	<iostream>
+	<iostream>
+
+1680421057 source:d:\lap_trinh\a+supergame01\src\animation\animation.cpp
+	"Animation.h"
+	"TextureManage.h"
+	"Animation.h"
+	"TextureManage.h"
+
+1680421057 source:d:\lap_trinh\a+supergame01\src\camera\camera.cpp
+	"Camera.h"
+	"Camera.h"
+
+1680421057 d:\lap_trinh\a+supergame01\src\camera\camera.h
+	<SDL.h>
+	"Play.h"
+	"Point.h"
+	"Vector2D.h"
+	<SDL.h>
+	"Play.h"
+	"Point.h"
+	"Vector2D.h"
+
+1680421297 source:d:\lap_trinh\a+supergame01\src\characters\enemy.cpp
+	"Enemy.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Play.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"Warrior.h"
+	"Enemy.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Play.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"Warrior.h"
+
+1680421597 d:\lap_trinh\a+supergame01\src\inputs\input.h
+	<SDL.h>
+	<SDL.h>
+
+1679837860 d:\lap_trinh\a+supergame01\src\collision\collisionhandler.h
+	<SDL.h>
+	"Vector2D.h"
+	"TileLayer.h"
+	"GameMap.h"
+	<SDL.h>
+	"Vector2D.h"
+	"TileLayer.h"
+	"GameMap.h"
+
+1679838171 d:\lap_trinh\a+supergame01\src\map\tilelayer.h
+	"Layer.h"
+	<string>
+	<vector>
+	"Layer.h"
+	<string>
+	<vector>
+
+1680421052 source:d:\lap_trinh\a+supergame01\src\characters\warrior.cpp
+	"Warrior.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Play.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"Warrior.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Play.h"
+	"CollisionHandler.h"
+	"Camera.h"
+
+1680406542 source:d:\lap_trinh\a+supergame01\src\collision\collisionhandler.cpp
+	"CollisionHandler.h"
+	"Play.h"
+	"CollisionHandler.h"
+	"Play.h"
+
+1680420137 source:d:\lap_trinh\a+supergame01\src\core\engine.cpp
+	"Engine.h"
+	"TextureManage.h"
+	"Input.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"MapParser.h"
+	<iostream>
+	"Camera.h"
+	"CollisionHandler.h"
+	"Engine.h"
+	"TextureManage.h"
+	"Input.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"MapParser.h"
+	<iostream>
+	"Camera.h"
+	"CollisionHandler.h"
+
+1679837736 d:\lap_trinh\a+supergame01\src\map\mapparser.h
+	<map>
+	<string>
+	"GameMap.h"
+	"TileLayer.h"
+	"tinyxml.h"
+	<map>
+	<string>
+	"GameMap.h"
+	"TileLayer.h"
+	"tinyxml.h"
+
+1680421057 d:\lap_trinh\a+supergame01\src\vendor\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1376507762 d:\lap_trinh\a+supergame01\src\vendor\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+	<assert.h>
+	<string.h>
+
+1680421057 source:d:\lap_trinh\a+supergame01\src\graphics\texturemanage.cpp
+	"TextureManage.h"
+	"Camera.h"
+	"TextureManage.h"
+	"Camera.h"
+
+1680421952 source:d:\lap_trinh\a+supergame01\src\inputs\input.cpp
+	"Input.h"
+	"Play.h"
+	"Engine.h"
+	"Input.h"
+	"Play.h"
+	"Engine.h"
+
+1680421057 source:d:\lap_trinh\a+supergame01\src\map\imglayer.cpp
+	"ImgLayer.h"
+	"TextureManage.h"
+	"ImgLayer.h"
+	"TextureManage.h"
+
+1680421057 d:\lap_trinh\a+supergame01\src\map\imglayer.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	"Layer.h"
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	"Layer.h"
+
+1680190468 source:d:\lap_trinh\a+supergame01\src\map\mapparser.cpp
+	"MapParser.h"
+	<sstream>
+	<fstream>
+	"MapParser.h"
+	<sstream>
+	<fstream>
+
+1679916016 source:d:\lap_trinh\a+supergame01\src\map\tilelayer.cpp
+	"TileLayer.h"
+	"TextureManage.h"
+	"TileLayer.h"
+	"TextureManage.h"
+
+1680418126 source:d:\lap_trinh\a+supergame01\src\states\menu.cpp
+	"Menu.h"
+	"TextureManage.h"
+	"Menu.h"
+	"TextureManage.h"
+
+1680423157 source:d:\lap_trinh\a+supergame01\src\states\play.cpp
+	"Play.h"
+	"TextureManage.h"
+	"Input.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"MapParser.h"
+	<iostream>
+	"Camera.h"
+	"CollisionHandler.h"
+	"Play.h"
+	"TextureManage.h"
+	"Input.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"MapParser.h"
+	<iostream>
+	"Camera.h"
+	"CollisionHandler.h"
+
+1679210544 source:d:\lap_trinh\a+supergame01\src\timer\timer.cpp
+	"Timer.h"
+	<SDL.h>
+	"Timer.h"
+	<SDL.h>
+
+1376507762 source:d:\lap_trinh\a+supergame01\src\vendor\tinyxml\tinystr.cpp
+	"tinystr.h"
+	"tinystr.h"
+
+1376507762 source:d:\lap_trinh\a+supergame01\src\vendor\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1376507762 source:d:\lap_trinh\a+supergame01\src\vendor\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+	"tinyxml.h"
+
+1376507762 source:d:\lap_trinh\a+supergame01\src\vendor\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1680421646 d:\lap_trinh\a+supergame01\src\characters\warrior2.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+
+1680422654 source:d:\lap_trinh\a+supergame01\src\characters\warrior2.cpp
+	"Warrior2.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Play.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"Warrior2.h"
+	"TextureManage.h"
+	"SDL.h"
+	"Input.h"
+	"Play.h"
+	"CollisionHandler.h"
+	"Camera.h"
+
+1680406763 source:d:\lap_trinh\a+supergame02\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Engine.h"
+	"TextureManage.h"
+	"Timer.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Engine.h"
+	"TextureManage.h"
+	"Timer.h"
+
+1682915822 d:\lap_trinh\a+supergame02\src\core\engine.h
+	"Play.h"
+	"Menu.h"
+	"MenuPause.h"
+	"GameOver.h"
+
+1683128378 d:\lap_trinh\a+supergame02\src\states\play.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"GameMap.h"
+	"GameObject.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Engine.h"
+	"Button.h"
+
+1683128358 d:\lap_trinh\a+supergame02\src\map\gamemap.h
+	<vector>
+	"Layer.h"
+
+1680847859 d:\lap_trinh\a+supergame02\src\map\layer.h
+
+1681652722 d:\lap_trinh\a+supergame02\src\object\gameobject.h
+	"Transform.h"
+	<SDL.h>
+	"Point.h"
+	"Collider.h"
+
+1680421057 d:\lap_trinh\a+supergame02\src\object\iobject.h
+	"Collider.h"
+	"Collider.h"
+
+1679111939 d:\lap_trinh\a+supergame02\src\physics\collider.h
+	<SDL.h>
+	<SDL.h>
+
+1680421057 d:\lap_trinh\a+supergame02\src\physics\transform.h
+	"Vector2D.h"
+	"Vector2D.h"
+
+1681800731 d:\lap_trinh\a+supergame02\src\physics\vector2d.h
+	<iostream>
+
+1680421057 d:\lap_trinh\a+supergame02\src\physics\point.h
+	<iostream>
+	<iostream>
+
+1683036084 d:\lap_trinh\a+supergame02\src\characters\warrior.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+
+1683135813 d:\lap_trinh\a+supergame02\src\characters\character.h
+	"GameObject.h"
+	<string>
+
+1682925852 d:\lap_trinh\a+supergame02\src\animation\animation.h
+	<string>
+	<SDL.h>
+
+1682431434 d:\lap_trinh\a+supergame02\src\physics\rigidbody.h
+	"Vector2D.h"
+
+1683128510 d:\lap_trinh\a+supergame02\src\characters\enemy.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+	"vector"
+
+1681653103 d:\lap_trinh\a+supergame02\src\characters\warrior2.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+
+1683128358 d:\lap_trinh\a+supergame02\src\states\menu.h
+	"Engine.h"
+	"Button.h"
+	"Play.h"
+
+1683042456 d:\lap_trinh\a+supergame02\src\graphics\texturemanage.h
+	<string>
+	<SDL.h>
+	<map>
+	"Play.h"
+
+1680421057 d:\lap_trinh\a+supergame02\src\timer\timer.h
+	<iostream>
+	<iostream>
+
+1680421057 source:d:\lap_trinh\a+supergame02\src\animation\animation.cpp
+	"Animation.h"
+	"TextureManage.h"
+	"Animation.h"
+	"TextureManage.h"
+
+1681313517 source:d:\lap_trinh\a+supergame02\src\camera\camera.cpp
+	"Camera.h"
+
+1680421057 d:\lap_trinh\a+supergame02\src\camera\camera.h
+	<SDL.h>
+	"Play.h"
+	"Point.h"
+	"Vector2D.h"
+	<SDL.h>
+	"Play.h"
+	"Point.h"
+	"Vector2D.h"
+
+1683128503 source:d:\lap_trinh\a+supergame02\src\characters\enemy.cpp
+	"Enemy.h"
+	"TextureManage.h"
+	"Input.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"Warrior.h"
+	"SoundMgr.h"
+
+1682521824 d:\lap_trinh\a+supergame02\src\inputs\input.h
+	<SDL.h>
+	<Vector2D.h>
+
+1683129094 d:\lap_trinh\a+supergame02\src\collision\collisionhandler.h
+	<SDL.h>
+	"Vector2D.h"
+	"TileLayer.h"
+	"GameMap.h"
+	"Engine.h"
+	<vector>
+
+1680847859 d:\lap_trinh\a+supergame02\src\map\tilelayer.h
+	"Layer.h"
+	<string>
+	<vector>
+
+1683129284 source:d:\lap_trinh\a+supergame02\src\characters\warrior.cpp
+	"Warrior.h"
+	"TextureManage.h"
+	"Input.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"SoundMgr.h"
+
+1681799223 source:d:\lap_trinh\a+supergame02\src\characters\warrior2.cpp
+	"Warrior2.h"
+	"TextureManage.h"
+	"Input.h"
+	"CollisionHandler.h"
+	"Camera.h"
+
+1683127846 source:d:\lap_trinh\a+supergame02\src\collision\collisionhandler.cpp
+	"CollisionHandler.h"
+	"Play.h"
+
+1683128392 source:d:\lap_trinh\a+supergame02\src\core\engine.cpp
+	"Engine.h"
+	"TextureManage.h"
+	"Input.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"MapParser.h"
+	<iostream>
+	"Camera.h"
+	"CollisionHandler.h"
+	<SDL_mixer.h>
+	"SoundMgr.h"
+	<SDL_ttf.h>
+
+1680835999 d:\lap_trinh\a+supergame02\src\map\mapparser.h
+	<map>
+	<string>
+	"GameMap.h"
+	"TileLayer.h"
+	"tinyxml.h"
+
+1683129217 d:\lap_trinh\a+supergame02\src\vendor\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1376507762 d:\lap_trinh\a+supergame02\src\vendor\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+	<assert.h>
+	<string.h>
+
+1683042462 source:d:\lap_trinh\a+supergame02\src\graphics\texturemanage.cpp
+	"TextureManage.h"
+	"Camera.h"
+
+1682524963 source:d:\lap_trinh\a+supergame02\src\inputs\input.cpp
+	"Input.h"
+	"Play.h"
+	"Engine.h"
+
+1680421057 source:d:\lap_trinh\a+supergame02\src\map\imglayer.cpp
+	"ImgLayer.h"
+	"TextureManage.h"
+	"ImgLayer.h"
+	"TextureManage.h"
+
+1680421057 d:\lap_trinh\a+supergame02\src\map\imglayer.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	"Layer.h"
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	"Layer.h"
+
+1680885743 source:d:\lap_trinh\a+supergame02\src\map\mapparser.cpp
+	"MapParser.h"
+	<sstream>
+	<fstream>
+
+1680885847 source:d:\lap_trinh\a+supergame02\src\map\tilelayer.cpp
+	"TileLayer.h"
+	"TextureManage.h"
+
+1683128358 source:d:\lap_trinh\a+supergame02\src\states\menu.cpp
+	"Menu.h"
+	"TextureManage.h"
+	"SoundMgr.h"
+
+1683130062 source:d:\lap_trinh\a+supergame02\src\states\play.cpp
+	"Play.h"
+	"TextureManage.h"
+	"Input.h"
+	"Timer.h"
+	"MapParser.h"
+	"Camera.h"
+	"CollisionHandler.h"
+	"MenuPause.h"
+	"GameOver.h"
+	"SoundMgr.h"
+	"TextMgr.h"
+	<stdlib.h>
+	<sstream>
+
+1681799017 source:d:\lap_trinh\a+supergame02\src\timer\timer.cpp
+	"Timer.h"
+	<SDL.h>
+
+1376507762 source:d:\lap_trinh\a+supergame02\src\vendor\tinyxml\tinystr.cpp
+	"tinystr.h"
+	"tinystr.h"
+
+1376507762 source:d:\lap_trinh\a+supergame02\src\vendor\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1376507762 source:d:\lap_trinh\a+supergame02\src\vendor\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+	"tinyxml.h"
+
+1376507762 source:d:\lap_trinh\a+supergame02\src\vendor\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1683128608 d:\lap_trinh\a+supergame02\src\button\button.h
+	<SDL.h>
+	<string>
+	<vector>
+	"Input.h"
+	"GameObject.h"
+	"Warrior.h"
+
+1683128608 source:d:\lap_trinh\a+supergame02\src\button\button.cpp
+	"Button.h"
+	"Vector2D.h"
+	"TextureManage.h"
+	"SoundMgr.h"
+
+1682849301 source:d:\lap_trinh\a+supergame02\src\bullet\bullet.cpp
+	"Bullet.h"
+	"TextureManage.h"
+
+1682849266 d:\lap_trinh\a+supergame02\src\bullet\bullet.h
+	<SDL.h>
+	<vector>
+	<GameObject.h>
+
+1682863243 source:d:\lap_trinh\a+supergame02\src\states\menupause.cpp
+	"MenuPause.h"
+	"TextureManage.h"
+
+1682860920 d:\lap_trinh\a+supergame02\src\states\menupause.h
+	"Engine.h"
+	"Button.h"
+	"Play.h"
+
+1683111786 source:d:\lap_trinh\a+supergame02\src\states\gameover.cpp
+	"GameOver.h"
+	"TextureManage.h"
+	"SoundMgr.h"
+
+1682914557 d:\lap_trinh\a+supergame02\src\states\gameover.h
+	"Engine.h"
+	"Button.h"
+	"Play.h"
+
+1683084254 d:\lap_trinh\a+supergame02\src\sounds\soundmgr.h
+	<map>
+	<string>
+	<iostream>
+	<SDL_mixer.h>
+
+1683111072 source:d:\lap_trinh\a+supergame02\src\sounds\soundmgr.cpp
+	"SoundMgr.h"
+
+1683125451 source:d:\lap_trinh\a+supergame02\src\text\textmgr.cpp
+	"TextMgr.h"
+	"Engine.h"
+
+1683128181 d:\lap_trinh\a+supergame02\src\text\textmgr.h
+	<string>
+	<iostream>
+	<SDL_ttf.h>
+
+1680406763 source:d:\lap_trinh\a+supergame02 - sua map\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Engine.h"
+	"TextureManage.h"
+	"Timer.h"
+
+1682915822 d:\lap_trinh\a+supergame02 - sua map\src\core\engine.h
+	"Play.h"
+	"Menu.h"
+	"MenuPause.h"
+	"GameOver.h"
+
+1683466645 d:\lap_trinh\a+supergame02 - sua map\src\states\play.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"GameMap.h"
+	"GameObject.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Engine.h"
+	"Button.h"
+
+1683128358 d:\lap_trinh\a+supergame02 - sua map\src\map\gamemap.h
+	<vector>
+	"Layer.h"
+
+1680847859 d:\lap_trinh\a+supergame02 - sua map\src\map\layer.h
+
+1681652722 d:\lap_trinh\a+supergame02 - sua map\src\object\gameobject.h
+	"Transform.h"
+	<SDL.h>
+	"Point.h"
+	"Collider.h"
+
+1680421057 d:\lap_trinh\a+supergame02 - sua map\src\physics\transform.h
+	"Vector2D.h"
+
+1681800731 d:\lap_trinh\a+supergame02 - sua map\src\physics\vector2d.h
+	<iostream>
+
+1680421057 d:\lap_trinh\a+supergame02 - sua map\src\physics\point.h
+	<iostream>
+
+1679111939 d:\lap_trinh\a+supergame02 - sua map\src\physics\collider.h
+	<SDL.h>
+
+1683553248 d:\lap_trinh\a+supergame02 - sua map\src\characters\warrior.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+
+1683135813 d:\lap_trinh\a+supergame02 - sua map\src\characters\character.h
+	"GameObject.h"
+	<string>
+
+1682925852 d:\lap_trinh\a+supergame02 - sua map\src\animation\animation.h
+	<string>
+	<SDL.h>
+
+1682431434 d:\lap_trinh\a+supergame02 - sua map\src\physics\rigidbody.h
+	"Vector2D.h"
+
+1683712342 d:\lap_trinh\a+supergame02 - sua map\src\characters\enemy.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Vector2D.h"
+	"vector"
+
+1683466900 d:\lap_trinh\a+supergame02 - sua map\src\button\button.h
+	<SDL.h>
+	<string>
+	<vector>
+	"Input.h"
+	"GameObject.h"
+	"Warrior.h"
+
+1682521824 d:\lap_trinh\a+supergame02 - sua map\src\inputs\input.h
+	<SDL.h>
+	<Vector2D.h>
+
+1683128358 d:\lap_trinh\a+supergame02 - sua map\src\states\menu.h
+	"Engine.h"
+	"Button.h"
+	"Play.h"
+
+1682860920 d:\lap_trinh\a+supergame02 - sua map\src\states\menupause.h
+	"Engine.h"
+	"Button.h"
+	"Play.h"
+
+1682914557 d:\lap_trinh\a+supergame02 - sua map\src\states\gameover.h
+	"Engine.h"
+	"Button.h"
+	"Play.h"
+
+1683171341 d:\lap_trinh\a+supergame02 - sua map\src\graphics\texturemanage.h
+	<string>
+	<SDL.h>
+	<map>
+	"Play.h"
+
+1683466217 d:\lap_trinh\a+supergame02 - sua map\src\timer\timer.h
+	<iostream>
+
+1680421057 source:d:\lap_trinh\a+supergame02 - sua map\src\animation\animation.cpp
+	"Animation.h"
+	"TextureManage.h"
+
+1683469099 source:d:\lap_trinh\a+supergame02 - sua map\src\button\button.cpp
+	"Button.h"
+	"Vector2D.h"
+	"TextureManage.h"
+	"SoundMgr.h"
+	"Timer.h"
+
+1683713419 d:\lap_trinh\a+supergame02 - sua map\src\sounds\soundmgr.h
+	<map>
+	<string>
+	<iostream>
+	<SDL_mixer.h>
+
+1681313517 source:d:\lap_trinh\a+supergame02 - sua map\src\camera\camera.cpp
+	"Camera.h"
+
+1680421057 d:\lap_trinh\a+supergame02 - sua map\src\camera\camera.h
+	<SDL.h>
+	"Play.h"
+	"Point.h"
+	"Vector2D.h"
+
+1683713783 source:d:\lap_trinh\a+supergame02 - sua map\src\characters\enemy.cpp
+	"Enemy.h"
+	"TextureManage.h"
+	"Input.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"Warrior.h"
+	"SoundMgr.h"
+
+1683168329 d:\lap_trinh\a+supergame02 - sua map\src\collision\collisionhandler.h
+	<SDL.h>
+	"Vector2D.h"
+	"TileLayer.h"
+	"GameMap.h"
+	"Engine.h"
+	<vector>
+
+1680847859 d:\lap_trinh\a+supergame02 - sua map\src\map\tilelayer.h
+	"Layer.h"
+	<string>
+	<vector>
+
+1683712654 source:d:\lap_trinh\a+supergame02 - sua map\src\characters\warrior.cpp
+	"Warrior.h"
+	"TextureManage.h"
+	"Input.h"
+	"CollisionHandler.h"
+	"Camera.h"
+	"SoundMgr.h"
+
+1683170337 source:d:\lap_trinh\a+supergame02 - sua map\src\collision\collisionhandler.cpp
+	"CollisionHandler.h"
+	"Play.h"
+
+1683171310 source:d:\lap_trinh\a+supergame02 - sua map\src\graphics\texturemanage.cpp
+	"TextureManage.h"
+	"Camera.h"
+
+1683468558 source:d:\lap_trinh\a+supergame02 - sua map\src\inputs\input.cpp
+	"Input.h"
+	"Play.h"
+	"Engine.h"
+
+1680885743 source:d:\lap_trinh\a+supergame02 - sua map\src\map\mapparser.cpp
+	"MapParser.h"
+	<sstream>
+	<fstream>
+
+1680835999 d:\lap_trinh\a+supergame02 - sua map\src\map\mapparser.h
+	<map>
+	<string>
+	"GameMap.h"
+	"TileLayer.h"
+	"tinyxml.h"
+
+1683129217 d:\lap_trinh\a+supergame02 - sua map\src\vendor\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1376507762 d:\lap_trinh\a+supergame02 - sua map\src\vendor\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1680885847 source:d:\lap_trinh\a+supergame02 - sua map\src\map\tilelayer.cpp
+	"TileLayer.h"
+	"TextureManage.h"
+
+1683713194 source:d:\lap_trinh\a+supergame02 - sua map\src\sounds\soundmgr.cpp
+	"SoundMgr.h"
+
+1683111786 source:d:\lap_trinh\a+supergame02 - sua map\src\states\gameover.cpp
+	"GameOver.h"
+	"TextureManage.h"
+	"SoundMgr.h"
+
+1683128358 source:d:\lap_trinh\a+supergame02 - sua map\src\states\menu.cpp
+	"Menu.h"
+	"TextureManage.h"
+	"SoundMgr.h"
+
+1682863243 source:d:\lap_trinh\a+supergame02 - sua map\src\states\menupause.cpp
+	"MenuPause.h"
+	"TextureManage.h"
+
+1683713019 source:d:\lap_trinh\a+supergame02 - sua map\src\states\play.cpp
+	"Play.h"
+	"TextureManage.h"
+	"Input.h"
+	"Timer.h"
+	"MapParser.h"
+	"Camera.h"
+	"CollisionHandler.h"
+	"MenuPause.h"
+	"GameOver.h"
+	"SoundMgr.h"
+	"TextMgr.h"
+	<stdlib.h>
+	<sstream>
+	<ctime>
+
+1683128181 d:\lap_trinh\a+supergame02 - sua map\src\text\textmgr.h
+	<string>
+	<iostream>
+	<SDL_ttf.h>
+
+1683125451 source:d:\lap_trinh\a+supergame02 - sua map\src\text\textmgr.cpp
+	"TextMgr.h"
+	"Engine.h"
+
+1683466204 source:d:\lap_trinh\a+supergame02 - sua map\src\timer\timer.cpp
+	"Timer.h"
+	<SDL.h>
+
+1376507762 source:d:\lap_trinh\a+supergame02 - sua map\src\vendor\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1376507762 source:d:\lap_trinh\a+supergame02 - sua map\src\vendor\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1376507762 source:d:\lap_trinh\a+supergame02 - sua map\src\vendor\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1376507762 source:d:\lap_trinh\a+supergame02 - sua map\src\vendor\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1683166498 source:d:\lap_trinh\a+supergame02 - sua map\src\core\engine.cpp
+	"Engine.h"
+	"TextureManage.h"
+	"Input.h"
+	"Warrior.h"
+	"Enemy.h"
+	"Timer.h"
+	"MapParser.h"
+	<iostream>
+	"Camera.h"
+	"CollisionHandler.h"
+	<SDL_mixer.h>
+	"SoundMgr.h"
+	<SDL_ttf.h>
+
