@@ -2456,3 +2456,19 @@
 	"Timer.h"
 	<SDL.h>
 
+1683715851 source:d:\lap_trinh\github\game_project\whiteknight\src\states\play.cpp
+	"Play.h"
+	"TextureManage.h"
+	"Input.h"
+	"Timer.h"
+	"MapParser.h"
+	"Camera.h"
+	"CollisionHandler.h"
+	"MenuPause.h"
+	"GameOver.h"
+	"SoundMgr.h"
+	"TextMgr.h"
+	<stdlib.h>
+	<sstream>
+	<ctime>
+
