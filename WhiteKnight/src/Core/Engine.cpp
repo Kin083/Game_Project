@@ -5,7 +5,6 @@
 #include "Warrior.h"
 #include "Enemy.h"
 #include "Timer.h"
-#include "MapParser.h"
 #include <iostream>
 #include "Camera.h"
 #include "CollisionHandler.h"

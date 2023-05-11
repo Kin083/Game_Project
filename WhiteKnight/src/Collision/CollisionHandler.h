@@ -3,8 +3,6 @@
 
 #include <SDL.h>
 #include "Vector2D.h"
-#include "TileLayer.h"
-#include "GameMap.h"
 #include "Engine.h"
 #include <vector>
 

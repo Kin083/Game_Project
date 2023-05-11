@@ -63,8 +63,8 @@ void Enemy::Update(double dt)
     if (m_IsHurt && !m_IsDied)
     {
         if (m_AnimaState == 0) {
-            if (m_Flip == SDL_FLIP_NONE) m_RigidBody->ApplyForceX(0.8);
-            else m_RigidBody->ApplyForceX(0.8);
+            if (m_Flip == SDL_FLIP_NONE) m_RigidBody->ApplyForceX(0.5);
+            else m_RigidBody->ApplyForceX(0.5);
         }
         else m_RigidBody->ApplyForceX(-m_SpeedWalk * 4 / 5);
     }

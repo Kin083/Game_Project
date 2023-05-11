@@ -2,7 +2,6 @@
 #include "TextureManage.h"
 #include "Input.h"
 #include "Timer.h"
-#include "MapParser.h"
 #include "Camera.h"
 #include "CollisionHandler.h"
 #include "MenuPause.h"

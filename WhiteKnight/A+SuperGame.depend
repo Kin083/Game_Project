@@ -2222,11 +2222,10 @@
 	"MenuPause.h"
 	"GameOver.h"
 
-1683466645 d:\lap_trinh\github\game_project\whiteknight\src\states\play.h
+1683773374 d:\lap_trinh\github\game_project\whiteknight\src\states\play.h
 	<iostream>
 	<SDL.h>
 	<SDL_image.h>
-	"GameMap.h"
 	"GameObject.h"
 	"Warrior.h"
 	"Enemy.h"
@@ -2345,7 +2344,7 @@
 	"Point.h"
 	"Vector2D.h"
 
-1683713783 source:d:\lap_trinh\github\game_project\whiteknight\src\characters\enemy.cpp
+1683772854 source:d:\lap_trinh\github\game_project\whiteknight\src\characters\enemy.cpp
 	"Enemy.h"
 	"TextureManage.h"
 	"Input.h"
@@ -2354,11 +2353,9 @@
 	"Warrior.h"
 	"SoundMgr.h"
 
-1683168329 d:\lap_trinh\github\game_project\whiteknight\src\collision\collisionhandler.h
+1683773386 d:\lap_trinh\github\game_project\whiteknight\src\collision\collisionhandler.h
 	<SDL.h>
 	"Vector2D.h"
-	"TileLayer.h"
-	"GameMap.h"
 	"Engine.h"
 	<vector>
 
@@ -2379,14 +2376,13 @@
 	"CollisionHandler.h"
 	"Play.h"
 
-1683166498 source:d:\lap_trinh\github\game_project\whiteknight\src\core\engine.cpp
+1683773392 source:d:\lap_trinh\github\game_project\whiteknight\src\core\engine.cpp
 	"Engine.h"
 	"TextureManage.h"
 	"Input.h"
 	"Warrior.h"
 	"Enemy.h"
 	"Timer.h"
-	"MapParser.h"
 	<iostream>
 	"Camera.h"
 	"CollisionHandler.h"
@@ -2456,12 +2452,11 @@
 	"Timer.h"
 	<SDL.h>
 
-1683715851 source:d:\lap_trinh\github\game_project\whiteknight\src\states\play.cpp
+1683773390 source:d:\lap_trinh\github\game_project\whiteknight\src\states\play.cpp
 	"Play.h"
 	"TextureManage.h"
 	"Input.h"
 	"Timer.h"
-	"MapParser.h"
 	"Camera.h"
 	"CollisionHandler.h"
 	"MenuPause.h"
