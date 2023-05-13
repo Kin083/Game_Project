@@ -68,7 +68,7 @@ void Enemy::Update(double dt)
         }
         else m_RigidBody->ApplyForceX(-m_SpeedWalk * 4 / 5);
     }
-    //else m_SpeedWalk = 1;
+
     m_Origin->X = m_Transform->X + m_Width / 2;
     int tmp = m_Origin->X / SCREEN_WIDTH / 2;
     // move on X axis

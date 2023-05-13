@@ -2344,7 +2344,7 @@
 	"Point.h"
 	"Vector2D.h"
 
-1683772854 source:d:\lap_trinh\github\game_project\whiteknight\src\characters\enemy.cpp
+1683987983 source:d:\lap_trinh\github\game_project\whiteknight\src\characters\enemy.cpp
 	"Enemy.h"
 	"TextureManage.h"
 	"Input.h"
@@ -2430,7 +2430,7 @@
 	"TextureManage.h"
 	"SoundMgr.h"
 
-1683128358 source:d:\lap_trinh\github\game_project\whiteknight\src\states\menu.cpp
+1683987938 source:d:\lap_trinh\github\game_project\whiteknight\src\states\menu.cpp
 	"Menu.h"
 	"TextureManage.h"
 	"SoundMgr.h"
